@@ -1,0 +1,31 @@
+Solo Project
+
+I will be doing my project on a lawn care business with a site for workers in that company to login and implement their information.
+
+I will be doing this project in python
+
+feature list 
+
+- login and registration
+  - validations for current logged in users
+- dashboard page
+  - list of jobs locations
+  - who performed the jobs 
+  - actions that only can be changed by that logged in user
+- new job request
+  - enter all information to create a new job request
+- user account
+  - jobs the user performed
+  - date of the job
+  - action items for each job
+- edit job request
+  - prefilled current job template that can be updated in the system
+- view of selected job with all information on job
+
+Protected Routes
+  - edit/1
+  - user/account
+
+github repo
+
+https://github.com/tleak26/lawn-care.git
